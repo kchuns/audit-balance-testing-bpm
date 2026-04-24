@@ -14,8 +14,6 @@ The process begins when a senior auditor assigns a testing area. The intern requ
 ## BPMN Diagram
 [View Interactive BPMN Diagram (Lucidchart)](https://lucid.app/lucidchart/0e8959f9-0678-401f-9fb8-c8288875ca4f/edit?viewport_loc=-2486%2C-539%2C5342%2C2669%2C0_0&invitationId=inv_3eef07a7-470a-47d6-a4ff-648d8115e0e4)
 
-![Audit BPMN Diagram](audit-balance-testing-bpmn.png)
-
 ## Key Findings
 - Client delays create bottlenecks
 - Incomplete documentation causes rework
